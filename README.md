@@ -18,3 +18,6 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+## Demo
+<a href="https://omarsha6an.github.io/ImageSlider/">Click here</a>
