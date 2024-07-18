@@ -20,4 +20,4 @@
 - JAVASCRIPT
 
 ## Demo
-<a href="https://omarsha6an.github.io/ImageSlider/">Click here</a>
+<a href="https://omaralshaafii.github.io/ImageSlider/">Click here</a>
